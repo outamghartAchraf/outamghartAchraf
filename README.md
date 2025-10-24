@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm ACHRAF OUTAMGHART</h1>
+<div align="center">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/achraf.png" alt="DevOpsShack Banner">
+</div>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="achraf.png">
 
