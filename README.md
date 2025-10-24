@@ -3,7 +3,8 @@
   <img src="achraf.png" alt="DevOpsShack Banner">
 </div>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="achraf.png">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outamghartachraf&label=Profile%20views&color=0e75b6&style=flat" alt="outamghartachraf" /> </p>
 
