@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ACHRAF OUTAMGHART</h1>
 <div align="center">
-  <img src="achraf.png" alt="DevOpsShack Banner">
+  <img src="achra.png" alt="DevOpsShack Banner">
 </div>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
