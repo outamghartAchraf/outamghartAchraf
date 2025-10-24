@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=outamghartachraf&show_icons=true&locale=en" alt="outamghartachraf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=outamghartachraf&" alt="outamghartachraf" /></p>
+
+
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
