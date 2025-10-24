@@ -25,6 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=outamghartachraf&" alt="outamghartachraf" /></p>
 
 
-### 🔥 GitHub Contribution Streak
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=outamghartAchraf&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
