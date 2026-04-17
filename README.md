@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outamghartachraf&label=Profile%20views&color=0e75b6&style=flat" alt="outamghartachraf" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack ✅**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
